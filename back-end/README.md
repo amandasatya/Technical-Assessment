@@ -12,6 +12,10 @@ uvicorn app.main:app --reload
 
 uvicorn app.main:app
 
+## tests
+
+pytest
+
 ## Customize configuration
 
 See [Configuration Reference](https://fastapi.tiangolo.com/)
